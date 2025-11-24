@@ -53,7 +53,7 @@
 ## ⚙️ My Projects
 
 
-#### [🚶 안전한 모터](https://link.url)  
+#### [🚶 안전한 모터](https://github.com/seominsol/Project-Security-Motor/tree/main)  
 RFID 사용자 인증과 IR 리모컨 제어를 RTOS 기반 멀티태스킹 구조로 통합해 인증된 사용자만 모터를 제어할 수 있는 임베디드 보안 모터 시스템입니다.
 
 #### [🔐 보안 금고 서비스 [SSS: Security Safe Service]](https://github.com/seominsol/Project-SSS-Security-Safe-Service) 
