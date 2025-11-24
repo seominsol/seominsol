@@ -56,7 +56,7 @@
 #### [🚶 안전한 모터](https://link.url)  
 RFID 사용자 인증과 IR 리모컨 제어를 RTOS 기반 멀티태스킹 구조로 통합해 인증된 사용자만 모터를 제어할 수 있는 임베디드 보안 모터 시스템입니다.
 
-#### [🔐 보안 금고 서비스 [SSS: Security Safe Service]](https://link.url) 
+#### [🔐 보안 금고 서비스 [SSS: Security Safe Service]](https://github.com/seominsol/Project-SSS-Security-Safe-Service) 
 TCP/IP 소켓 통신으로 금고(캐비넷) 단말과 서버를 연결해, 사용자 인증·상태 모니터링·원격 제어가 가능한 IoT 보안(캐비넷) 금고 서비스입니다.
 
 #### [🏋️‍♂️ 자세어때 (AI Smart Gym)](https://link.url)
