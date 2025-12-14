@@ -44,11 +44,7 @@
 ![Device Driver](https://img.shields.io/badge/Device%20Driver-001219?style=flat)
 ![BSP](https://img.shields.io/badge/BSP-CA6702?style=flat)
 ![IoT](https://img.shields.io/badge/IoT-94D2BD?style=flat)
-- **Firmware Development**
-- **TCP/IP Socket Programming**
-- **Device Driver Development (Linux Kernel)**
-- **BSP (Board Support Package) Customization**
-- **IoT System Development**
+
 
 ## ⚙️ My Projects
 
