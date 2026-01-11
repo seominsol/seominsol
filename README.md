@@ -52,6 +52,11 @@
 #### [🕹️  USB 매크로 (USB Macro)](https://github.com/won-jong-wan/USB-Macro)  
 USB 복합장치(CDC·MSC·Vendor)를 기반으로 매크로 명령을 저장·전송해, 장치 연결만으로 명령어 셋을 자동으로 실행하는 매크로 시스템
 
+
+#### [🧠 리눅스 커널 디바이스 드라이버 기반 임베디드 제어 시스템](https://github.com/seominsol/Project-Device-Driver)
+4종 하드웨어 장치(Rotary Encoder, DHT11, DS1302, SSD1306)를 직접 커널 디바이스 드라이버로 구현하고, /dev 인터페이스를 통해 멀티스레드 유저 애플리케이션에서 센서 수집·입력 처리·디스플레이 출력을 통합 제어한 리눅스 임베디드 시스템
+
+
 #### [🚶  안전한 모터 보안 제어 시스템 (Safe Motor Project)](https://github.com/seominsol/Project-Security-Motor/tree/main)  
 RFID 사용자 인증과 IR 리모컨 제어를 RTOS 기반 멀티태스킹 구조로 통합해 인증된 사용자만 모터를 제어할 수 있는 임베디드 보안 모터 시스템
 
@@ -60,7 +65,6 @@ TCP/IP 소켓 통신으로 금고(캐비넷) 단말과 서버를 연결해, 사�
 
 #### [🏋️‍♂️ 자세어때 (AI Smart Gym)](https://github.com/seominsol/Project-AI-Smart-Gym)
 카메라 포즈 인식과 IMG·IMU 센서를 결합해, 스쿼트 등 운동 동작을 실시간으로 분류·채점하고 피로도·불균형까지 분석해주는 AI 기반 스마트 피트니스 시스템
-
 
 
 
