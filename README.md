@@ -49,8 +49,8 @@
 
 
 ## ⚙️ My Projects
-> #### [🕹️  USB 매크로 (USB Macro)](https://github.com/won-jong-wan/USB-Macro)
-USB 복합장치(CDC·MSC·Vendor)를 기반으로 매크로 명령을 저장·전송해, 장치 연결만으로 명령어 셋을 자동으로 실행하는 매크로 시스템
+#### [🕹️  USB 매크로 (USB Macro)](https://github.com/won-jong-wan/USB-Macro)
+> USB 복합장치(CDC·MSC·Vendor)를 기반으로 매크로 명령을 저장·전송해, 장치 연결만으로 명령어 셋을 자동으로 실행하는 매크로 시스템
 &nbsp;
 
 #### [🧠 리눅스 커널 디바이스 드라이버 기반 임베디드 제어 시스템](https://github.com/seominsol/Project-Device-Driver)
