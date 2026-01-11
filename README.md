@@ -49,7 +49,8 @@
 
 
 ## ⚙️ My Projects
-
+#### [🕹️  USB 매크로 (USB Macro)](https://github.com/won-jong-wan/USB-Macro)  
+USB 복합장치(CDC·MSC·Vendor)를 기반으로 매크로 명령을 저장·전송해, 장치 연결만으로 명령어 셋을 자동으로 실행하는 매크로 시스템
 
 #### [🚶  안전한 모터 보안 제어 시스템 (Safe Motor Project)](https://github.com/seominsol/Project-Security-Motor/tree/main)  
 RFID 사용자 인증과 IR 리모컨 제어를 RTOS 기반 멀티태스킹 구조로 통합해 인증된 사용자만 모터를 제어할 수 있는 임베디드 보안 모터 시스템
