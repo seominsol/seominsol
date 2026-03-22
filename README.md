@@ -70,4 +70,7 @@
 &nbsp;
 
 
+## 📘 Study Notes
+- [Embedded Study Repository](https://www.notion.so/STM32-32afdccce2858039bf69d55021554881)
+
 
